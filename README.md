@@ -4,6 +4,9 @@
 - `source .venv/bin/activate`
 
 
-#install Jupiter Notebook
+# Install Jupiter Notebook
 
 - `pip3 install notebook`
+
+
+## Practicing with Python 3.12 
